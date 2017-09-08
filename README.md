@@ -4,7 +4,7 @@ Notes and labs from SAS Programming 1 Essentials -- ECPRG193
 This course is for users who want to learn how to write SAS programs. It is the entry point to learning SAS programming and is a prerequisite to many other SAS courses. If you do not plan to write SAS programs and you prefer a point-and-click interface, you should attend the SAS Enterprise Guide 1: Querying and Reporting course.
 This course can help prepare you for the following certification exam(s): SAS Base Programming for SAS 9, SAS Certified Clinical Trials Programmer Using SAS 9.
 
-###Learn how to:
+### Learn how to:
 - navigate the SAS Studio programming environment
 - navigate the SAS Enterprise Guide programming environment
 - navigate the SAS windowing environment
@@ -15,8 +15,8 @@ This course can help prepare you for the following certification exam(s): SAS Ba
 
 ---
 
-###Course outline:
-
+### Course outline:
+ 
 Introduction 
 - overview of SAS Foundation
 - course logistics
@@ -74,6 +74,6 @@ Learning More
 
 ---
 
-###Link to course:
+### Link to course:
 https://support.sas.com/edu/schedules.html?ctry=us&crs=PROG1#s1=3
 
